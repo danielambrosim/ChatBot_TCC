@@ -9,8 +9,8 @@ Apoio: ChatGPT, materiais e tutoriais online.
 Ferramentas: Python (com possibilidade de migração para Java), frameworks para chatbot como Dialogflow ou Microsoft Bot Framework (a definir conforme a linguagem utilizada).
 
 
-Terminal: node app.js
-npm install express sequelize sqlite3 bcryptjs email-validator axios dotenv qrcode
-npm init -y
-npm run test
-cd projeto_js  
+Terminal: node app.js ;
+npm install express sequelize sqlite3 bcryptjs email-validator axios dotenv qrcode ;
+npm init -y ;
+npm run test ;
+cd projeto_js ;
