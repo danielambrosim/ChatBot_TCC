@@ -6,7 +6,7 @@ A proposta é criar um chatbot capaz de recepcionar usuários, coletar informaç
 Recursos Utilizados:
 
 Apoio: ChatGPT, materiais e tutoriais online.
-Ferramentas: Python (com possibilidade de migração para Java), frameworks para chatbot como Dialogflow ou Microsoft Bot Framework (a definir conforme a linguagem utilizada).
+Ferramentas: Python (com possibilidade de migração para Java), frameworks para chatbot como Dialogflow ou Microsoft Bot Framework (a definir conforme a linguagem utilizada). Java (pós-migração do Python para Java).
 
 
 Terminal: node app.js ;
